@@ -1,8 +1,0 @@
-#Imprimir Números pares e impares#
-
-for i in range(0, 21):
-    if i % 2 == 0:
-        print(f'{i} É par')
-
-    else:
-        print(f'{i} É impar')
